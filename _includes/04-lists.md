@@ -10,3 +10,9 @@ In order, my fravorite flavours of icecream
 1. chocolate
 2. rocky road
 3. strawberry
+
+
+here is a check list
+- [ ] record
+- [ ] edit
+- [ ] talk
